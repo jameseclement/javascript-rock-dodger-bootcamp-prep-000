@@ -78,6 +78,7 @@ function createRock(x) {
      * we should remove the rock from the DOM
      */
   }
+}
 
   // We should kick of the animation of the rock around here
 
