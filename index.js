@@ -78,7 +78,7 @@ function createRock(x) {
      * we should remove the rock from the DOM
      */
   }
-}
+
 
   // We should kick of the animation of the rock around here
 
@@ -88,7 +88,7 @@ function createRock(x) {
 
   // Finally, return the rock element you've created
   return rock;
-
+}
 
 /**
  * End the game by clearing `gameInterval`,
